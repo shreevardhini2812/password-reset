@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body{
+  background-color: lightgray
+}
+.reg-des,.log-des,.forgot-des,.reset-des{
+  background-color: white;
+
+}
+.btn{
+  cursor: pointer;
+}
